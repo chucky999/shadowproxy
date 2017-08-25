@@ -1,8 +1,8 @@
 {
-    "server":"139.59.240.38",
+    "server":"0.0.0.0",
     "server_port":8388,
     "local_port":1080,
     "password":"barfoo!",
     "timeout":600,
-    "method":"aes-256-gcm"
+    "method":"rc4-md5"
 }
